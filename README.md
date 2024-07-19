@@ -2,6 +2,8 @@
 this is a super coool training project. Cool.
 Please don't super me, Please don't super me.
 
+this is a super coool training project. Cool.
+
 <<<<<<< HEAD
 =======
 Please don't soooooooooooooper me
