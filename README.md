@@ -2,3 +2,7 @@
 this is a super coool training project. Cool.
 Please don't super me, Please don't super me.
 
+<<<<<<< HEAD
+=======
+Please don't soooooooooooooper me
+>>>>>>> Staging1
